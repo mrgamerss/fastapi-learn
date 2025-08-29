@@ -1,4 +1,4 @@
-🎓 Learning Journey 
+🎓 Learning Journey -
 Learned through Bitfumes on YouTube, together with the FastAPI documentation 📚
 
 🚀 Why Choose FastAPI:
