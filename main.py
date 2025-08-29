@@ -1,11 +1,12 @@
 from fastapi import FastAPI
+import models
+from database import engine
+from routers import blog, user, auth
 
 app = FastAPI()
 
-@app.get('/')
-def index():
-    return {'data': {'name':'sarthak'}}
+models.Base.metadata.create_all(engine)
 
-@app.get('/about')
-def about():
-    return {'data': 'about page'}
+app.include_router(blog.router)
+app.include_router(user.router)
+app.include_router(auth.router)

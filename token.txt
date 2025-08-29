@@ -1,0 +1,6 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyaW5nIiwiZXhwIjoxNzU2NDUxMjA0fQ.1j5ik_zjeTEEmkLjJQIjnWM9L5W-ejgoMf6HaUvdxiU
+
+{
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyYWFuZyIsImV4cCI6MTc1NjQ1MTM5M30.hjLwaVW6MuaqaZRfMyVfzxTkZ0nqZNbreEYj8TSA_kw",
+  "token_type": "bearer"
+}
